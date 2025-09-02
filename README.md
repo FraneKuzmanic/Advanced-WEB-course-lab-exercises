@@ -1,0 +1,1 @@
+<p>These are the laboratory assignemnts for the advanced web course I had on my college. Some of the topics covered though assignemnts: web security, web authentication, development of a web game.</p>
